@@ -1,0 +1,32 @@
+{
+    "author": "Noble Ng.",
+    "bin": {
+      "pascalscript": "./compile/index.js"
+    },
+    "dependencies": {
+      "fs": "^0.0.1-security",
+      "npm": "^10.2.1",
+      "path": "^0.12.7",
+      "yargs": "^17.7.2"
+    },
+    "description": "A CLI Pascal Script compile.",
+    "homepage": "https://github.com/tiny-green/pascalscript/blob/main/README.md",
+    "keywords": [
+      "auto",
+      "generation",
+      "cli",
+      "language"
+    ],
+    "license": "https://github.com/tiny-green/pascalscript/blob/main/LICENSE",
+    "main": "bin/index.js",
+    "name": "pascalscript",
+    "repository": {
+      "url": "https://github.com/tiny-green/pascalscript"
+    },
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "type": "module",
+    "version": "0.0.1a.sv231217.2030n"
+  }
+  
